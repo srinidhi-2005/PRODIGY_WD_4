@@ -1,0 +1,23 @@
+[
+    {
+      "title": "DhoniVerse: Responsive Webpage",
+      "imageSrc": "responsive.png",
+      "description": "It is a responsive web page dedicated to showcasing an ebook about the legendary cricketer MS Dhoni. The page features an engaging design that offers details about the book, title and key highlights and view additional information like reviews or related content.",
+      "skills": ["JS", "Bootstrap"],
+      "source": "https://github.com/srinidhi-2005/PRODIGY_WD_1"
+    },
+    {
+      "title": "Task Master :",
+      "imageSrc": "task.png",
+      "description": "TaskMaster is a sleek, user-friendly frontend web application designed for efficient task management. It allows users to add, edit, and delete tasks and mark them as completed.",
+      "skills": ["React.js"],
+      "source": "https://github.com/srinidhi-2005/SCT_WD_4"
+    },
+    {
+      "title": "Weather widget :",
+      "imageSrc": "weather.png",
+      "description": "It provides real-time weather information, including temperature, humidity, wind speed, and forecast data for a specific location. It's designed to offer quick, accessible weather updates on website.",
+      "skills": ["React.js", "REST API"],
+      "source": "https://github.com/srinidhi-2005/PRODIGY_WD_5"
+    }
+]

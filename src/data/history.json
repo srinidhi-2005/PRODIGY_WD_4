@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Front-end Developer Intern",
+      "organisation": "SkillCraft Technology",
+      "startDate": "Nov, 2024",
+      "endDate": "Nov, 2024",
+      "experiences": ["Worked on frontend part of different projects"],
+      "imageSrc": "skill.png"
+    },
+    {
+      "role": "Frontend Web Developer Intern",
+      "organisation": "Prodigy InfoTech",
+      "startDate": "Dec, 2024",
+      "endDate": "Present",
+      "experiences": ["Working on frontend projects"],
+      "imageSrc": "prodigy.png"
+    }
+]
